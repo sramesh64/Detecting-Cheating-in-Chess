@@ -1,6 +1,6 @@
 # Chess Cheating Detection Project
 
-This project uses machine learning to detect cheating in chess games. The model analyzes patterns in move quality and strategic choices to identify when players are using chess engines like Stockfish to gain an unfair advantage. When cheating is detected, the model can determine whether it's the white or black player who is using computer assistance.
+This project uses machine learning to detect cheating in chess games. The model analyzes patterns in move quality and strategic choices to identify when players are using chess engines like Stockfish to gain an unfair advantage.
 
 ## Overview
 
