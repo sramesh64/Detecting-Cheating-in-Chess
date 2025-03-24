@@ -1,0 +1,7 @@
+{
+    "accuracy": 0.84,
+    "precision": 0.84,
+    "recall": 0.84,
+    "f1": 0.84,
+    "model_type": "Random Forest"
+}
